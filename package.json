@@ -1,0 +1,32 @@
+{
+  "name": "mebel-technik",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kev512/mebel-technik.git"
+  },
+  "author": "Kewin Plewa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kev512/mebel-technik/issues"
+  },
+  "homepage": "https://github.com/kev512/mebel-technik#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-clean": "^0.4.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-copy": "^4.0.1",
+    "gulp-htmlmin": "^5.0.1",
+    "gulp-imagemin": "^6.2.0",
+    "gulp-include": "^2.4.1",
+    "gulp-sass": "^4.0.2",
+    "gulp-uglifycss": "^1.1.0",
+    "gulp-clean-css": "^4.2.0"
+  }
+}
