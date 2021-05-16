@@ -728,7 +728,7 @@ background-color: #fff;
     display: flex;
     justify-content: space-between;
     width: 100%;
-    background: url(/img/con-background.jpg);
+    background: url(img/con-background.jpg);
     background-size: cover;
     background-position: center;
     height: 50vh;
@@ -1646,7 +1646,7 @@ main {
 }
 
 .loading-screen {
-    background-image: url(/img/loader-background.png);
+    background-image: url(img/loader-background.png);
     background-size: cover;
     background-position: center;
 }
