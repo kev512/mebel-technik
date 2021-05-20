@@ -53,7 +53,7 @@ body {
     padding-left: 0;
     padding-right: 0;
     padding-top: 0;
-    background-image: url(/src/img/loader-background.png);
+    background-image: url('./img/loader-background.png');
     background-size: cover;
     background-position: center;
     width: 0%;
@@ -728,7 +728,7 @@ background-color: #fff;
     display: flex;
     justify-content: space-between;
     width: 100%;
-    background: url(/src/img/con-background.jpg);
+    background: url('/src/img/con-background.jpg');
     background-size: cover;
     background-position: center;
     height: 50vh;
@@ -1646,7 +1646,7 @@ main {
 }
 
 .loading-screen {
-    background-image: url(/src/img/loader-background.png);
+    background-image: url('img/loader-background.png');
     background-size: cover;
     background-position: center;
 }
@@ -2397,7 +2397,7 @@ main {
 }
 
 .loading-screen {
-    background-image: url(/src/img/loader-background.png);
+    background-image: url('img/loader-background.png');
     background-size: cover;
     background-position: center;
 }
@@ -3169,7 +3169,7 @@ main {
 }
 
 .loading-screen {
-    background-image: url(/src/img/loader-background.png);
+    background-image: url('img/loader-background.png');
     background-size: cover;
     background-position: center;
 }
@@ -3957,7 +3957,7 @@ main {
 }
 
 .loading-screen {
-    background-image: url(/src/img/loader-background.png);
+    background-image: url('img/loader-background.png');
     background-size: cover;
     background-position: center;
 }
@@ -4739,7 +4739,7 @@ main {
 }
 
 .loading-screen {
-    background-image: url(/src/img/loader-background.png);
+    background-image: url('img/loader-background.png');
     background-size: cover;
     background-position: center;
 }
