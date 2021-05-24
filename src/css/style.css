@@ -53,7 +53,7 @@ body {
     padding-left: 0;
     padding-right: 0;
     padding-top: 0;
-    background-image: url('./img/loader-background.png');
+    background-image: url('../img/loader-background.png');
     background-size: cover;
     background-position: center;
     width: 0%;
@@ -1424,6 +1424,20 @@ input[type="submit"]:hover {
     color: #333333;
 }
 
+.dev-by p a {
+    text-decoration: none;
+    color: #333333;
+}
+
+.dev-by p a:visited,
+.dev-by p a:active {
+    text-decoration: none;
+}
+
+.dev-by p a:hover {
+    color: #be2222;
+}
+
 /* 2nd Case*/
 footer.subpage {
     display: flex;
@@ -1580,6 +1594,16 @@ footer.subpage .bottom p {
     margin: 0;
     font-size: var(--font-size-xs);
     color: #838383;
+}
+
+footer.subpage .bottom p a {
+    text-decoration: none;
+    color: #838383;
+}
+
+footer.subpage .bottom p a:visited,
+footer.subpage .bottom p a:active {
+    text-decoration: none;
 }
 /* end */
 
