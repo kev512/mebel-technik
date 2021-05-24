@@ -186,10 +186,8 @@ $('body').on('click', '.nav .menu li a', function () {
 })
 // Hamburger END //
 
-
-
 /*
-// Momentum Scrolling //
+// Momentum Scrolling - full website //
 var Scrollbar = window.Scrollbar;
 Scrollbar.init(document.querySelector('#my-scrollbar'));
 */
