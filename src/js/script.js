@@ -185,9 +185,3 @@ $('body').on('click', '.nav .menu li a', function () {
     $('.hamburger').removeClass('is-active')
 })
 // Hamburger END //
-
-/*
-// Momentum Scrolling - full website //
-var Scrollbar = window.Scrollbar;
-Scrollbar.init(document.querySelector('#my-scrollbar'));
-*/
