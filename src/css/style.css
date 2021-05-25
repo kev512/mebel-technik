@@ -1676,6 +1676,87 @@ footer.subpage .bottom p a:active {
     display: inline-block;
 }
 
+/* ====== Thank You Page ====== */
+.content.page.thank-you {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    height: fit-content;
+    padding: 60px 100px;
+}
+
+.content.page.thank-you .thank-you-container {
+    position: relative;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.content.page.thank-you .thank-you-container .container {
+    width: 80%;
+    padding: 0 35px;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(145deg, #fafafa, #d3d3d3);
+    border-radius: 30px;
+    box-shadow:  8px 8px 40px #c0c0c0,
+             -8px -8px 40px #ffffff;
+}
+
+.content.page.thank-you .thank-you-container .container lottie-player {
+    height: 200px;
+    position: relative;
+    justify-content: center;
+    align-items: center;
+    padding: 0;
+    margin-bottom: -30px;
+}
+
+.content.page.thank-you .thank-you-container .container h2 {
+    width: 100%;
+    text-align: center;
+    font-size: 42px;
+    font-weight: 300;
+    margin-bottom: 10px;
+}
+
+.content.page.thank-you .thank-you-container .container h3 {
+    width: 100%;
+    text-align: center;
+    font-size: 24px;
+    font-weight: 300;
+    margin-bottom: 40px;
+    padding: 0 30px;
+}
+
+.content.page.thank-you .thank-you-container .container .button {
+    position: relative;
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+input[type="button"] {
+    font-family: var(--body-font);
+    border: none;
+    padding: 15px 45px;
+    cursor: pointer;
+    outline: none;
+    background: #be2222;
+    color: var(--cor-1);
+    font-weight: 500;
+    text-transform: uppercase;
+    transition: box-shadow 0.3s ease-in-out;
+    font-size: 14px;
+}
+
+input[type="button"]:hover {
+    box-shadow: inset 8px 8px 17px #9c1c1c,
+            inset -8px -8px 17px #e02828;
+}
+
+ /* end */
+
 /* ====== Media Queries => Responsiveness ====== */
 
  /* Mobile S */
