@@ -1,0 +1,37 @@
+/* Contact Form */
+.content.page.contact {
+    justify-content: center;
+    height: fit-content;
+    padding: 30px 0px 40px 0px;
+}
+
+.content.page.contact .form-container .container {
+    width: 90%;
+    padding: 0 12px;
+    border-radius: 20px;
+}
+
+.content.page.contact .form-container h2 {
+    font-size: 30px;
+}
+
+.content.page.contact .form-container .container .row100 .col {
+    margin: 25px 0 5px 0;
+}
+
+.content.page.contact .form-container .container .row100 .col .inputBox input,
+.content.page.contact .form-container .container .row100 .col .inputBox.textarea textarea {
+    font-size: 16px;
+}
+
+.content.page.contact .form-container .container .row100 .col .inputBox .text {
+    font-size: 18px;
+}
+
+input[type="submit"] {
+    width: 100%;
+    padding: 12px 35px;
+    font-weight: 500;
+    font-size: 14px;
+}
+/* end */

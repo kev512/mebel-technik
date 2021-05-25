@@ -2149,7 +2149,7 @@ main {
 }
 /* end */
 
-/* ======= Kontakt Section ======= */
+/* ====== Kontakt Page ====== */
 .content.page-contact {
     padding: 0;
     height: 100%;
@@ -2410,6 +2410,33 @@ input[type="submit"] {
 .content.page-tech .box-right p {
     font-size: 16px;
     line-height: 160%;
+}
+/* end */
+
+/* ====== Thank You Page ====== */
+.content.page.thank-you {
+    justify-content: center;
+    height: fit-content;
+    padding: 30px 0px 40px 0px;
+}
+
+.content.page.thank-you .thank-you-container .container {
+    width: 90%;
+    padding: 0 12px;
+    border-radius: 20px;
+}
+
+.content.page.thank-you .thank-you-container .container lottie-player {
+    height: 120px;
+}
+
+.content.page.thank-you .thank-you-container .container h2 {
+    font-size: 28px;
+}
+
+.content.page.thank-you .thank-you-container .container h3 {
+    font-size: 18px;
+    padding: 0 15px;
 }
 /* end */
 
@@ -2900,7 +2927,7 @@ main {
 }
 /* end */
 
-/* ======= Kontakt Section ======= */
+/* ====== Kontakt Page ====== */
 .content.page-contact {
     padding: 0;
     height: 100%;
@@ -3173,6 +3200,32 @@ input[type="submit"] {
 }
 /* end */
 
+/* ====== Thank You Page ====== */
+.content.page.thank-you {
+    justify-content: center;
+    height: fit-content;
+    padding: 30px 0px 40px 0px;
+}
+
+.content.page.thank-you .thank-you-container .container {
+    width: 90%;
+    padding: 0 12px;
+    border-radius: 20px;
+}
+
+.content.page.thank-you .thank-you-container .container lottie-player {
+    height: 120px;
+}
+
+.content.page.thank-you .thank-you-container .container h2 {
+    font-size: 32px;
+}
+
+.content.page.thank-you .thank-you-container .container h3 {
+    font-size: 18px;
+    padding: 0 15px;
+}
+/* end */
 
 /* ======= Footer ======= */
 /* 1st Case */
@@ -3679,7 +3732,7 @@ main {
 }
 /* end */
 
-/* ======= Kontakt Section ======= */
+/* ====== Kontakt Page ====== */
 .content.page-contact {
     padding: 0;
     height: 100%;
@@ -3959,6 +4012,32 @@ input[type="submit"] {
 }
 /* end */
 
+/* ====== Thank You Page ====== */
+.content.page.thank-you {
+    justify-content: center;
+    height: fit-content;
+    padding: 20px 0px;
+}
+
+.content.page.thank-you .thank-you-container .container {
+    width: 90%;
+    padding: 0 12px;
+    border-radius: 20px;
+}
+
+.content.page.thank-you .thank-you-container .container lottie-player {
+    height: 160px;
+}
+
+.content.page.thank-you .thank-you-container .container h2 {
+    font-size: 38px;
+}
+
+.content.page.thank-you .thank-you-container .container h3 {
+    font-size: 22px;
+    padding: 0 15px;
+}
+/* end */
 
 /* ======= Footer ======= */
 /* 1st Case */
@@ -4458,7 +4537,7 @@ main {
 }
 /* end */
 
-/* ======= Kontakt Section ======= */
+/* ====== Kontakt Page ====== */
 .content.page-contact {
     padding: 0;
     height: 100%;
@@ -4740,6 +4819,33 @@ input[type="submit"] {
 }
 /* end */
 
+/* ====== Thank You Page ====== */
+.content.page.thank-you {
+    justify-content: center;
+    height: fit-content;
+    padding: 50px 0px;
+}
+
+.content.page.thank-you .thank-you-container .container {
+    width: 90%;
+    padding: 0 22px;
+    border-radius: 20px;
+}
+
+.content.page.thank-you .thank-you-container .container lottie-player {
+    height: 180px;
+}
+
+.content.page.thank-you .thank-you-container .container h2 {
+    font-size: 42px;
+}
+
+.content.page.thank-you .thank-you-container .container h3 {
+    font-size: 24px;
+    padding: 0 15px;
+}
+/* end */
+
 /* ======= Footer ======= */
 /* 1st Case */
 .dev-by {
@@ -4966,7 +5072,7 @@ main {
 }
 /* end */
 
-/* ======= Kontakt Section ======= */
+/* ====== Kontakt Page ====== */
 .content.page-contact {
     padding: 20px;
 }
@@ -4987,6 +5093,33 @@ main {
 
 /* ======= Nasza Oferta Section ======= */
 /* DONE  */
+
+/* ====== Thank You Page ====== */
+.content.page.thank-you {
+    justify-content: center;
+    height: fit-content;
+    padding: 60px 0px;
+}
+
+.content.page.thank-you .thank-you-container .container {
+    width: 90%;
+    padding: 0 22px;
+    border-radius: 20px;
+}
+
+.content.page.thank-you .thank-you-container .container lottie-player {
+    height: 200px;
+}
+
+.content.page.thank-you .thank-you-container .container h2 {
+    font-size: 42px;
+}
+
+.content.page.thank-you .thank-you-container .container h3 {
+    font-size: 24px;
+    padding: 0 15px;
+}
+/* end */
 
 /* ======= Footer ======= */
 /* 2nd Case */
@@ -5144,7 +5277,7 @@ main {
 }
 /* end */
 
-/* ======= Kontakt Section ======= */
+/* ====== Kontakt Page ====== */
 .content.page-contact .box-left-th .upper h3 {
     font-size: 52px;
 }
@@ -5265,6 +5398,33 @@ input[type="submit"] {
 
 .content.page-tech .box-right p {
     font-size: 26px;
+}
+/* end */
+
+/* ====== Thank You Page ====== */
+.content.page.thank-you {
+    justify-content: center;
+    height: fit-content;
+    padding: 70px 0px;
+}
+
+.content.page.thank-you .thank-you-container .container {
+    width: 70%;
+    padding: 0 120px;
+    border-radius: 20px;
+}
+
+.content.page.thank-you .thank-you-container .container lottie-player {
+    height: 220px;
+}
+
+.content.page.thank-you .thank-you-container .container h2 {
+    font-size: 46px;
+}
+
+.content.page.thank-you .thank-you-container .container h3 {
+    font-size: 26px;
+    padding: 0 15px;
 }
 /* end */
 
@@ -5488,7 +5648,7 @@ main {
 }
 /* end */
 
-/* ======= Kontakt Section ======= */
+/* ====== Kontakt Page ====== */
 .content.page-contact .box-left-th .upper h3 {
     font-size: 66px;
 }
@@ -5609,6 +5769,33 @@ input[type="submit"] {
 
 .content.page-tech .box-right p {
     font-size: 34px;
+}
+/* end */
+
+/* ====== Thank You Page ====== */
+.content.page.thank-you {
+    justify-content: center;
+    height: fit-content;
+    padding: 100px 0px;
+}
+
+.content.page.thank-you .thank-you-container .container {
+    width: 60%;
+    padding: 0 120px;
+    border-radius: 20px;
+}
+
+.content.page.thank-you .thank-you-container .container lottie-player {
+    height: 250px;
+}
+
+.content.page.thank-you .thank-you-container .container h2 {
+    font-size: 52px;
+}
+
+.content.page.thank-you .thank-you-container .container h3 {
+    font-size: 32px;
+    padding: 0 15px;
 }
 /* end */
 
