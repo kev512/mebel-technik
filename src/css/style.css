@@ -60,6 +60,10 @@ body {
     height: 100%;
 }
 
+.loading-screen::-webkit-scrollbar {
+    display: none;
+}
+
 .load-container {
     position: fixed;
     top: 0;
@@ -69,6 +73,10 @@ body {
     overflow: hidden;
     z-index: 19999;
     pointer-events: none;
+}
+
+.load-container::-webkit-scrollbar {
+    display: none;
 }
 
 /* Page-in transition */
@@ -5089,7 +5097,7 @@ main {
 
 /* Contact Form */
 .content.page.contact {
-    height: 100vh;
+    height: 120vh;
     padding: 0px 120px;
 }
 
@@ -5433,8 +5441,8 @@ main {
 
 /* Contact Form */
 .content.page.contact {
-    height: 100vh;
-    padding: 0px 120px;
+    height: fit-content;
+    padding: 100px 120px;
 }
 
 .content.page.contact .form-container h2 {
