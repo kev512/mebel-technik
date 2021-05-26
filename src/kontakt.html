@@ -109,18 +109,20 @@
             <div class="form-container">
                 <div class="container">
                     <form id="contactform" action="https://formsubmit.io/send/mebeltechnik@gmail.com" method="POST">
+                        <input name="_redirect" type="hidden" id="name"
+                            value="https://kev512.github.io/mebel-technik-dist/thank-you.html">
                         <h2>Wypełnij formularz kontaktowy</h2>
                         <div class="row100">
                             <div class="col">
                                 <div class="inputBox">
-                                    <input name="name" type="text" id="name" required="required">
+                                    <input name="Imię" type="text" id="name" required="required">
                                     <span class="text">Imię</span>
                                     <span class="line"></span>
                                 </div>
                             </div>
                             <div class="col">
                                 <div class="inputBox">
-                                    <input name="surname" type="text" id="surname" required="required">
+                                    <input name="Nazwisko" type="text" id="surname" required="required">
                                     <span class="text">Nazwisko</span>
                                     <span class="line"></span>
                                 </div>
@@ -129,14 +131,14 @@
                         <div class="row100">
                             <div class="col">
                                 <div class="inputBox">
-                                    <input name="email" type="email" id="email" required="required">
+                                    <input name="Email" type="email" id="email" required="required">
                                     <span class="text">Email</span>
                                     <span class="line"></span>
                                 </div>
                             </div>
                             <div class="col">
                                 <div class="inputBox">
-                                    <input name="phone" type="number" id="phone" required="required">
+                                    <input name="Nr_telefonu" type="number" id="phone" required="required">
                                     <span class="text">Numer Telefonu</span>
                                     <span class="line"></span>
                                 </div>
@@ -144,7 +146,7 @@
                             <div class="row100">
                                 <div class="col">
                                     <div class="inputBox textarea">
-                                        <textarea name="comment" id="comment" cols="30" rows="10"
+                                        <textarea name="Treść_wiadomości" id="comment" cols="30" rows="10"
                                             required="required"></textarea>
                                         <span class="text">Wpisz swoją wiadomość...</span>
                                         <span class="line"></span>
