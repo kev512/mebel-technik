@@ -7,7 +7,7 @@
 
 ![project_logo_2](https://user-images.githubusercontent.com/55996233/122086446-02607900-ce04-11eb-80de-2d96820cf05a.png)
 
-Website of a carpentry company that produces custom-made furniture.
+Website of a local carpentry company that produces custom-made furniture.
 
 ---
 
@@ -24,7 +24,7 @@ Website of a carpentry company that produces custom-made furniture.
 
 ## Description
 
-This is a project that aimed to create a website for a local carpentry company. Its main assumption was to redesign the company's website so as to present all information about the company in an interesting and modern way. This project was made by me as part of the *Pro Bono* service, so I have the opportunity to publish its documentation.
+This is a project that aimed to create a website for a local carpentry company. Its main assumption was to completely rebuild the company's website so as to present all information about the company in an interesting and modern way. This project was made by me as part of the *Pro Bono* service, so I have the opportunity to publish its documentation.
 
 ---
 
@@ -65,7 +65,7 @@ To run this website locally just open the project with live local server.
 #### Responsiveness
 
 The website is fully responsive and displays correctly on all mobile devices.
-Responsiveness has been tested on devices with a minimum screen width from 320px to 42560px.
+Responsiveness has been tested on devices with a minimum screen width from 320px to 2560px.
 
 ---
 
